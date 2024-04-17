@@ -1,0 +1,1 @@
+## Installation```stMetacello new	repository: 'github://Ma10as00/new_test:main/src';	baseline: 'new';	load```## Load Lepiter				After installing with Metacello, you will be able to execute```#BaselineOfnew asClass loadLepiter```
